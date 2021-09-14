@@ -1,0 +1,6 @@
+dump/**
+!dump/keep
+local/**
+!local/keep
+wsusproxy
+wsusproxy.exe
